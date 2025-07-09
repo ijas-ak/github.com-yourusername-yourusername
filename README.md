@@ -5,13 +5,28 @@
 
 ---
 
-### 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
----
+<h3 align="center"> Tools & Languages </h3>
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+ 
+</div>
+
+###
+
 
 ### 📊 GitHub Stats
 
