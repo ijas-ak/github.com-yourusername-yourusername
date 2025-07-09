@@ -12,4 +12,4 @@
 ![Ijas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Connect with me:
-[![LinkedIn](https://www.linkedin.com/feed/)
+[![LinkedIn]([https://www.linkedin.com/feed/](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijas-Ak))
