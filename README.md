@@ -1,15 +1,37 @@
-# 👋 Hi, I'm Ijas
-- 🌱 I’m currently learning Flutter
-- 💻 I'm a BCA graduate and a software developer intern
-- 🧠 90-day transformation journey: mind, body, finances
+<h1 align="center">Hey 👋, I'm Ijas</h1>
 
-## 🚀 Tech Stack
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+🌟 22 y/o | 🧑‍💻 Software Developer Intern | 🎓 BCA Graduate | 🇮🇳 Kerala  
+🚀 On a 90-day transformation journey: Physically, Mentally, and Financially.
 
-## 📊 GitHub Stats
-![Ijas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+---
 
-## 📫 Connect with me:
-[![LinkedIn]([https://www.linkedin.com/feed/](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijas-Ak))
+### 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+![Ijas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijasak&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijasak&layout=compact&theme=radical)
+
+---
+
+### 📌 Pinned Projects
+- ✨ Flutter API App
+- 📱 Task Manager App
+- 🔐 Login UI with Firebase Auth
+
+---
+
+### 📈 My Goals
+- 🔄 Become unrecognizable in 90 days
+- 📚 Master Flutter and Firebase
+- 💼 Land a full-time dev job
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_PROFILE)
